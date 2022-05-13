@@ -21,7 +21,7 @@ pipeline{
 	      }
           }
           stage('CodeReview'){
-		  
+
               steps{
 		    
 		  echo 'codeReview'
